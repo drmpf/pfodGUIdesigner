@@ -16,7 +16,7 @@
 #include "DwgPanel.h"
 #include "DwgsList.h"
 
-const char Items::versionNo[10] = "1.0.46";
+const char Items::versionNo[10] = "1.0.47";
 
 //extern Stream *debugPtr;
 static Stream *debugPtr = NULL;
